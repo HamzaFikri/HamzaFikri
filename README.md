@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hamza fikri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza fikri" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hamza-fikri-69491520a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza fikri" height="30" width="40" /></a>
 <a href="https://fb.com/hamza fikri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza fikri" height="30" width="40" /></a>
 <a href="https://instagram.com/hamzaa.fikri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzaa.fikri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@mohammed_hamza_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mohammed_hamza_1" height="30" width="40" /></a>
