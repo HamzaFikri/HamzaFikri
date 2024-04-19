@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-- 🌱 I’m currently Software Engineer Student
-- 📫 How to reach me :
+- 🌱 I’m currently Software Engineer Graduated
+- 📫 How to reach me : <a href="mohammed.hamza.fikri@gmail.com">Here</a>
 - ⚡ Fun fact :**Chess Player**
 
 <h3 align="left">Connect with me:</h3>
