@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohammed Hamza Fikri</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzafikri&label=Profile%20views&color=0e75b6&style=flat" alt="hamzafikri" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 - 🌱 I’m currently Software Engineer Graduated
